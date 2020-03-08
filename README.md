@@ -1,6 +1,6 @@
 # Awesome SQL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://github.com/" align="right" width="80">](https://docs.microsoft.com/en-us/sql/)
+[<img src="https://github.com/microsoft/azuredatastudio/blob/master/samples/notebookSamples/Graphics/AzureDataStudioLogo.png" align="right" width="80">](https://docs.microsoft.com/en-us/sql/)
 
 A curated list of sweet SQL Server & Azure SQL Database tools, scripts, and resources.
 
