@@ -8,6 +8,7 @@ A curated list of sweet SQL Server & Azure SQL Database tools, scripts, and reso
 
 * [Development Environments (IDEs)](#development-environment)
 * [Management Tools](#management-tools)
+* [T-SQL Code Generators](#T-SQL-Code-Generators)
 * [Documentation](#documentation)
 
 ## Development Environments
