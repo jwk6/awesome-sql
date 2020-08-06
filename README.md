@@ -16,5 +16,8 @@ A curated list of sweet SQL Server & Azure SQL Database tools, scripts, and reso
 ## Management Tools
 
 
+## T-SQL Code Generators
+* [SCD-Merge-Wizard](https://github.com/SQLPlayer/SCD-Merge-Wizard/releases) - SCD Merge Wizard is an application which will help you generate T-SQL merge statements for implementing Slowly Changing Dimensions in your data warehouse.
+
 ## Documentation
 * [Docs](https://docs.microsoft.com/en-us/sql/) - Learn how to use Azure SQL Services and SQL Server to manage your database needs, both on-premises and in the cloud.
