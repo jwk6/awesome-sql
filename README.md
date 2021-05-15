@@ -11,9 +11,13 @@ A curated list of sweet SQL Server & Azure SQL Database tools, scripts, and reso
 * [T-SQL Code Generators](#T-SQL-Code-Generators)
 * [Query Tuning](#Query-Tuning)
 * [Documentation](#documentation)
+* [Scripts and Stored Procedures](#Scripts-and-Stored-Procedures)
+  * [Backup](#Backup)
+  * [Restore](#Restore)
+  * [Index Optimization](#Index-Optimization)
 
 ## Development Environments
-* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio) - Azure Data Studio is a cross-platform database tool for Windows, MacOS, and Linux. 
+* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio) - Azure Data Studio is a cross-platform database tool for Windows, MacOS, and Linux. Now has an official Extension with support for SSDT Database Projects!
 
 ## Management Tools
 * [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - SQL Server Management Studio (SSMS) is an integrated environment for managing SQL Server and Azure SQL Database. 
@@ -27,4 +31,9 @@ A curated list of sweet SQL Server & Azure SQL Database tools, scripts, and reso
 ## Documentation
 * [Docs](https://docs.microsoft.com/en-us/sql/) - Learn how to use Azure SQL Services and SQL Server to manage your database needs, both on-premises and in the cloud.
 
+## Scripts and Stored Procedures
+### Backup
 
+### Restore
+
+### Index Optimization
