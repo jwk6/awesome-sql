@@ -20,7 +20,8 @@ A curated list of sweet SQL Server & Azure SQL Database tools, scripts, and reso
 * [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio) - Azure Data Studio is a cross-platform database tool for Windows, MacOS, and Linux. Now has an official Extension with support for SSDT Database Projects!
 
 ## Management Tools
-* [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - SQL Server Management Studio (SSMS) is an integrated environment for managing SQL Server and Azure SQL Database. 
+* [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - SQL Server Management Studio (SSMS) is an integrated environment for managing SQL Server and Azure SQL Database.
+* [Beekeeper Studio](https://www.beekeeperstudio.io/db/sql-server-client/) - A modern and easy to use database manager for SQL Server and Azure SQL, available on Windows, macOS, and Linux, with a free open source Community edition.
 
 ## T-SQL Code Generators
 * [SCD-Merge-Wizard](https://github.com/SQLPlayer/SCD-Merge-Wizard/releases) - SCD Merge Wizard is an application which will help you generate T-SQL merge statements for implementing Slowly Changing Dimensions in your data warehouse.
